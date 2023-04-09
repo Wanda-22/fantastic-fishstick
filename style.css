@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    border: 20px groove goldenrod;
+    color: aliceblue;
+    font-family: 'Moon Dance', cursive;
+
+}
+#name{
+    background-color: #D65076;
+    font-size: 60px;
+    border: 9px groove silver;
+    top: 0;
+}
+#cd{
+    float: right;
+    bottom: 0;
+    height: 250px;
+    border-radius: 200px;
+    position: fixed;
+    background-color: blue;
+    color: cornsilk;
+    line-height: 2;
+}
+canvas{
+    border: 10px dashed deeppink;
+    border-radius: 60px;
+    box-shadow: 20px 20px 20px darkturquoise;
+}
